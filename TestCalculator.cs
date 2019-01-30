@@ -15,7 +15,7 @@ namespace HelloWorldCSHarp
 
         }
 
-        static void CalculatorFun(int x, int y)
+        private static void CalculatorFun(int x, int y)
         {
             Console.WriteLine("I was asked the following question:");
             Console.WriteLine("What is " + x + " + " + y + "???");
