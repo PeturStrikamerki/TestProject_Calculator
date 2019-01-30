@@ -21,7 +21,7 @@ namespace HelloWorldCSHarp
             Console.WriteLine("What is " + x + " + " + y + "???");
             Console.WriteLine("I think it is like.. " + (x + y) + "... right?..");
             Console.ReadKey();
-            //Smá comment
+            // Þetta er betri comment
         }
     }
 }
