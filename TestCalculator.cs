@@ -15,6 +15,12 @@ namespace HelloWorldCSHarp
 
         }
 
+        public void test()
+        {
+            //Halli
+        }
+
+
         private static void CalculatorFun(int x, int y)
         {
             Console.WriteLine("I was asked the following question:");
